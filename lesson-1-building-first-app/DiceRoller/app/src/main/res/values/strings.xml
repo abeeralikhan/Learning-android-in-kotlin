@@ -3,4 +3,5 @@
     <string name="roll_label">Roll</string>
     <string name="my_name">Abeer Ali Khan</string>
     <string name="roll_the_dice">Roll the dice!</string>
+    <string name="dice_image">Dice image</string>
 </resources>
